@@ -35,4 +35,9 @@ git status
 git add 1_fun-of-web-dev.txt
 git add .
 
-git commit m "Commit message"
+git commit -m "Commit message"
+git push --set-upstream origin master
+
+Create a new Branch:)
+
+git checkout -b day1Branch
